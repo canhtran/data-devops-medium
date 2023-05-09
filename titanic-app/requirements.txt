@@ -1,5 +1,5 @@
 # Main
-Flask==1.0.2
+Flask==2.3.2
 gunicorn==19.5.0
 flask-cors==3.0.9
 Flask-SQLAlchemy===2.1
